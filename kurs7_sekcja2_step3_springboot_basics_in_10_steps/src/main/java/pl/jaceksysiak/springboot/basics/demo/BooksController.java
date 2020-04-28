@@ -15,7 +15,6 @@ public class BooksController {
 		return Arrays.asList(new Book(1L, "Java Courses", "Jacek Sysiak")); 
 	}
 	
-
 }
 
 
